@@ -1,0 +1,73 @@
+.ombak {
+    padding-top: 1rem;
+    background-color: rgb(184, 221, 252);
+}
+
+.form {
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form .radio {
+    font-weight: 400;
+}
+
+.form .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.jumbotron {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.table {
+    background: rgb(58, 110, 255);
+    border-collapse: collapse;
+    border: 0em;
+    border-color: transparent;
+    border-radius: 15px;
+    color: #fff;
+    margin-top: 1rem;
+}
+
+.test {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    color: #fff;
+    padding: 15px;
+}
+
+.responsive img {
+    width: 100%;
+    max-width: 130px;
+    height: auto;
+}
+
+.card {
+    width: 23rem;
+    border-radius: 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.row {
+    border-radius: 15px;
+    margin-top: 1rem;
+}
+
+.col {
+    width: 23rem;
+    border-radius: 15px;
+    background-color: #fff;
+}
